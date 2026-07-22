@@ -1,4 +1,4 @@
-Central Green Quest FINAL 4
-Version: 2026-07-17-final-4
-- Tissue image included
-- Final reminder message shown after both Game 1 and Game 2
+เกมแยกขยะ คนเซ็นทรัล
+Version: 2026-07-22-custom-branch-final
+- เพิ่มตัวเลือกอื่น ๆ ในรหัสสาขา
+- กรอกสาขาอื่น ๆ และส่งเข้า Google Sheets ได้
